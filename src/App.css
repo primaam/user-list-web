@@ -4,3 +4,14 @@
   background: linear-gradient(135deg, rgba(44,54,57,1) 0%, rgba(63,78,79,1) 100%);
 }
 
+.layout {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 60px;
+}
+
+.row{
+  background-color: #A27B5C;
+}
